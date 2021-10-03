@@ -1,0 +1,4 @@
+Colunas removidas: 'Id', 'diferenciais'
+Colunas binarizadas: 'tipo_vendedor'
+One-hot Encoding: 'tipo', 'bairro'
+Colunas padronizadas: 'quartos','suites','vagas','area_util','area_extra', 'preco' (y)

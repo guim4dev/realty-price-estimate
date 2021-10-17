@@ -1,4 +1,4 @@
 Colunas removidas: 'Id', 'diferenciais', 's_jogos', 's_ginastica'
 Colunas binarizadas: 'tipo_vendedor'
 One-hot Encoding: 'tipo', 'bairro'
-Colunas padronizadas: 'quartos','suites','vagas','area_util','area_extra', 'preco' (y)
+Colunas Scaled: 'quartos','suites','vagas','area_util','area_extra'
